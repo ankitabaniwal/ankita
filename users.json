@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Carey",
+        "last_name": "Inglesfield",
+        "email": "cinglesfield0@slashdot.org",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Pierrette",
+        "last_name": "Ganforthe",
+        "email": "pganforthe1@nih.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Dari",
+        "last_name": "Tough",
+        "email": "dtough2@nih.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Kermy",
+        "last_name": "Brody",
+        "email": "kbrody3@mail.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Shaughn",
+        "last_name": "Quigley",
+        "email": "squigley4@bbc.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Pepe",
+        "last_name": "Mantha",
+        "email": "pmantha5@gnu.org",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Linnet",
+        "last_name": "Clutterham",
+        "email": "lclutterham6@dmoz.org",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Cullie",
+        "last_name": "Purcell",
+        "email": "cpurcell7@pagesperso-orange.fr",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Albertina",
+        "last_name": "Tonner",
+        "email": "atonner8@tmall.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Walther",
+        "last_name": "Bisson",
+        "email": "wbisson9@simplemachines.org",
+        "gender": "Male"
+    }
+]
